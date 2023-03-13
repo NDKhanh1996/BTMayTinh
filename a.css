@@ -1,0 +1,26 @@
+
+table {
+    display: table;
+    width: 10%;
+    border-collapse: collapse;
+}
+
+tr {
+    display: table-row;
+}
+
+td {
+    display: table-cell;
+    padding: 10px;
+    border: 1px solid black;
+}
+button{
+    height: 70px;
+    width: 70px;
+}
+table{
+    background-color: cornflowerblue;
+}
+td.hover{
+    background-color: yellow;
+}
